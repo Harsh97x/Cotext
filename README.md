@@ -22,7 +22,7 @@ First go to openai website and obtain an API key. Clone and run this application
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Harsh97x/image-generator.git
+$ git clone https://github.com/Harsh97x/Cotext.git
 
 # Install dependencies
 $ npm install
