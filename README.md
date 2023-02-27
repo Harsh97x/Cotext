@@ -4,7 +4,7 @@
 
 
 
-![screenshot]()
+![screenshot](https://github.com/Harsh97x/Cotext/blob/main/client/assets/screenshot.png)
 
 
 ### Built With
